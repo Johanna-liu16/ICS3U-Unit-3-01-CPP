@@ -33,5 +33,5 @@ int main() {
               << answer << std::endl;
     std::cout << std::endl;
 
-    std::cout << "\nDone." << std::endl;
+    std::cout << "Done." << std::endl;
 }
